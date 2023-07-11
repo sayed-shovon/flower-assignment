@@ -82,7 +82,7 @@ margin-top: 10px;
   margin-left:104px;
 }
 
-/*Info*/
+
 #feature{
 text-align: center;
 padding-top: 150px;
@@ -146,6 +146,10 @@ position: relative;
     left: 0;
     right: 0;
     text-decoration: underline;
+}
+.item p:hover{
+  color: #E55473;
+  text-decoration: none;
 }
 #hotdeals{
 height: 450px;
